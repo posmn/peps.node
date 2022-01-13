@@ -1,0 +1,10 @@
+{
+    "Description": '''
+PEPS masternode'''
+    Links: [
+        { 
+            website: "https://project.peps.today/",
+            explorer: "https://explorer.decenomy.net/PEPS/blocks"
+        }
+    ]
+}
